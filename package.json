@@ -1,0 +1,21 @@
+{
+  "name": "linier",
+  "version": "1.0.0",
+  "description": "Linier regresion with tensorflow.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "tensorflow"
+  ],
+  "dependencies": {
+    "@tensorflow/tfjs-node": "*",
+    "colors": "*",
+    "jsome": "*",
+    "readline": "^1.3.0"
+  },
+  "author": "FajarTheGGman",
+  "license": "ISC"
+}
